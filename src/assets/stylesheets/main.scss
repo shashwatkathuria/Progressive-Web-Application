@@ -1,0 +1,38 @@
+body {
+  background-color: #f0f1f2;
+  overflow-wrap: break-word;
+}
+
+.section-title {
+  align-self: center;
+}
+
+.loading-spinner-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+
+.loading-spinner {
+  width: 3rem;
+  height: 3rem;
+}
+
+.toast-container {
+  position: absolute;
+  height: 70vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  z-index: 10000;
+}
+
+.toast {
+  align-self: center;
+  flex-basis: 0;
+}

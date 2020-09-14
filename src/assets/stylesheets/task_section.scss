@@ -1,0 +1,16 @@
+@import './variables.scss';
+
+.task-section {
+  margin-top: 1%;
+  background-color: white;
+  box-shadow: $box-shadow;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+}
+
+.task-row {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}

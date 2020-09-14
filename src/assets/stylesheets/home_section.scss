@@ -1,0 +1,10 @@
+@import './variables.scss';
+
+.home-section {
+  margin-top: 1%;
+  background-color: white;
+  box-shadow: $box-shadow;
+  text-align: center;
+  width: 100%;
+  justify-content: center;
+}

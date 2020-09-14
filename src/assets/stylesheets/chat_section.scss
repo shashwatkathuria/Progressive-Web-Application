@@ -1,0 +1,63 @@
+@import './variables.scss';
+
+.chat-section {
+  margin-top: 1%;
+  background-color: white;
+  box-shadow: $box-shadow;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+}
+
+.friends-list {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.friends-list > button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 15px;
+  text-align: left;
+}
+
+.chat-form {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.chat-form-container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.chat-message {
+  max-width: 75%;
+}
+
+.chat-message-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.chat-message-right {
+  margin-left: auto;
+}
+
+.new-messages-badge {
+  margin-left: 10px
+}
+
+.friend-latest-information {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+
+.latest-message-time {
+  margin-left: 10px;
+}

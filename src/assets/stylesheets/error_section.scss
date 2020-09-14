@@ -1,0 +1,12 @@
+@import './variables.scss';
+
+.error-section {
+  margin-top: 1%;
+  background-color: white;
+  box-shadow: $box-shadow;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 100%;
+  justify-content: center;
+}
