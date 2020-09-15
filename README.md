@@ -1,4 +1,4 @@
-# Progressive Web Application [Status completed](https://img.shields.io/badge/Status-finished-2eb3c1.svg) ![MongoDB 3.6.0](https://img.shields.io/badge/Mongodb-3.6.0-blue.svg) ![ExpressJS 4.17.1](https://img.shields.io/badge/ExpressJS-4.17.1-green.svg) ![ReactJS 16.13.1](https://img.shields.io/badge/ReactJS-16.13.1-red.svg) ![Node.js 12.18.3](https://img.shields.io/badge/NodeJS-12.18.3-yellow.svg) ![forthebadge made-with-javascript](https://forthebadge.com/images/badges/made-with-javascript.svg)
+# Progressive Web Application ![Status completed](https://img.shields.io/badge/Status-finished-2eb3c1.svg) ![MongoDB 3.6.0](https://img.shields.io/badge/Mongodb-3.6.0-blue.svg) ![ExpressJS 4.17.1](https://img.shields.io/badge/ExpressJS-4.17.1-green.svg) ![ReactJS 16.13.1](https://img.shields.io/badge/ReactJS-16.13.1-red.svg) ![Node.js 12.18.3](https://img.shields.io/badge/NodeJS-12.18.3-yellow.svg) ![forthebadge made-with-javascript](https://forthebadge.com/images/badges/made-with-javascript.svg)
 ---------------------
 ## MADE USING MERN STACK
 ---------------------
